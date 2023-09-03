@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "full-backend-node",
+  "version": "1.0.0",
+  "description": "full backend zero",
+  "main": "basic_server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Loidinh168/full-backend-nodejs.git)"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "luisdinh",
+  "license": "ISC"
+}
